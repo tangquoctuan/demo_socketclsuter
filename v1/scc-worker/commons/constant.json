@@ -1,0 +1,30 @@
+{
+  "individual": "_individual",
+  "token": "token",
+  "name": "name",
+  "id": "id",
+  "channel_info": "channel_info",
+  "onlines": "onlines",
+  "need_connected": "need_connected",
+  "socket_id": "socket_id",
+  "private_channel": "private_channel",
+  "connect_channel_id": "connect_channel_id",
+  "current_channel_id": "current_channel_id",
+  "test_post": "test-post",
+  "chat": "chat",
+  "is_live_stream": "is_live_stream",
+  "room_id": "room_id",
+  "reaction": {
+    "like": "00000025000000000000000000000001",
+    "love": "00000025000000000000000000000002"
+  },
+  "elastic_search_uer_index": "api-service-user",
+  "elastic_search_channel_index": "api-service-channel",
+  "chat_reaction": "chat_reaction",
+  "reaction_expire_time": 60,
+  "reaction_limit_message": 10,
+  "limit_reaction_key": "limit_reaction_key",
+  "range_time_push_total_view": 1,
+  "key_redis_last_time_push_total_view": "key_redis_last_time_push_total_view_",
+  "reaching_the_limit": "00000026000000000000000000000001"
+}
